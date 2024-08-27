@@ -1,6 +1,6 @@
 {
   "name": "debounce-search-input",
-  "version": "1.0.0",
+  "version": "1.0.2", 
   "description": "A React component for a search input field with debounce functionality.",
   "main": "lib/index.js",
   "scripts": {
