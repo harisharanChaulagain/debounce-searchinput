@@ -19,16 +19,23 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/debounce-search-input.git"
+    "url": "git+https://github.com/harisharanChaulagain/debounce-search-input.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/debounce-search-input/issues"
+    "url": "https://github.com/harisharanChaulagain/debounce-search-input/issues"
   },
-  "homepage": "https://github.com/yourusername/debounce-search-input#readme",
+  "homepage": "https://github.com/harisharanChaulagain/debounce-search-input#readme",
   "devDependencies": {
     "@babel/cli": "^7.24.8",
     "@babel/core": "^7.25.2",
     "@babel/preset-env": "^7.25.4",
     "@babel/preset-react": "^7.24.7"
+  },
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0"
+  },
+  "engines": {
+    "node": ">=12.0.0",
+    "npm": ">=6.0.0"
   }
 }
