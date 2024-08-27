@@ -19,12 +19,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/harisharanChaulagain/debounce-search-input.git"
+    "url": "git+https://github.com/harisharanChaulagain/debounce-searchinput.git"
   },
   "bugs": {
-    "url": "https://github.com/harisharanChaulagain/debounce-search-input/issues"
+    "url": "https://github.com/harisharanChaulagain/debounce-searchinput/issues"
   },
-  "homepage": "https://github.com/harisharanChaulagain/debounce-search-input#readme",
+  "homepage": "https://github.com/harisharanChaulagain/debounce-searchinput#readme",
   "devDependencies": {
     "@babel/cli": "^7.24.8",
     "@babel/core": "^7.25.2",
