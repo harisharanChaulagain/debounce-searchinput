@@ -1,6 +1,6 @@
 {
   "name": "debounce-search-input",
-  "version": "1.0.2", 
+  "version": "1.0.2",
   "description": "A React component for a search input field with debounce functionality.",
   "main": "lib/index.js",
   "scripts": {
@@ -11,11 +11,12 @@
   "author": "Hari Sharan Chaulagain",
   "license": "ISC",
   "keywords": [
-    "react",
-    "search",
     "debounce",
+    "search",
     "input",
-    "component"
+    "search input",
+    "debounce input",
+    "debounce search input"
   ],
   "repository": {
     "type": "git",
